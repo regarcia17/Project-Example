@@ -1,0 +1,21 @@
+h1{
+    color: gray;
+    font-family: monospace;
+    font-size: 40px;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+.info-box{
+    button{
+        
+    }
+    p{
+        display: none;
+    }
+    p.visible{
+        display: block;
+    }
+}
